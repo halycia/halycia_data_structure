@@ -21,7 +21,7 @@ with real world context, but this package only has the necessary tools to do so.
 # but you have it defined in __all__ just in case
 # __all__ = ["echo", "surround", "reverse"] -> module names
 
-__all__ = ["queue_halycia". "stack"]
+__all__ = ["queue_halycia", "stack", "deque_halycia"]
 
 # please keep in mind to not define a locally defined name the same as an imported module name
 # otherwise the name will keep the module from beeing imported

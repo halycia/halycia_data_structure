@@ -1,6 +1,6 @@
 class Stack:
     """ Creates a LIFO structure using a list. """
-    # Python doesn't have a native module called Stack,
+    # Python doesn't have a native class called Stack,
     # so this module shouldn't have any problems.
     
     def __init__(self):

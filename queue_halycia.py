@@ -1,6 +1,6 @@
-class Queue_halycia :
+class Queue_halycia:
     """ Creates a FIFO structure using a list. """
-    # because Python already has a native module called Queue,
+    # because Python already has a native class called Queue,
     # I added my name to this module to avoid problems. 
     
     def __init__(self):
