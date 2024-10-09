@@ -27,3 +27,5 @@ __all__ = ["queue_halycia", "stack", "deque_halycia"]
 # otherwise the name will keep the module from beeing imported
 
 # for the priority queue implementation, please see section 6.4.2
+
+#I am aware I am not handling errors yet.
